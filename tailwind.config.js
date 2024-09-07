@@ -61,6 +61,7 @@ module.exports = {
         // Adicione suas cores personalizadas aqui
         'text-a': 'var(--text-a)', // cor personalizada
         'yellow-main': 'var(--yellow-main)', // cor personalizada
+        'white-main': 'var(--white-main)', // cor personalizada
       },
     },
   },
