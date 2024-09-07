@@ -1,6 +1,7 @@
 
 import CaroulselCustom from "@/components/CaroulselCustom";
 import { Button } from "@/components/ui/button";
+import { Circle } from "lucide-react";
 import Image from "next/image";
 
 export default function Home() {
@@ -25,20 +26,44 @@ export default function Home() {
       
       <CaroulselCustom />
       
-      <div className="px-20">
+      <div className="px-20 w-full">
         <ul>
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-          <li>4</li>
-          <li>5</li>
-          <li>6</li>
-          <li>7</li>
-          <li>8</li>
-          <li>9</li>
-          <li>10</li>
+          <li className="flex gap-2 items-center">
+            <Circle size={8} className="bg-black rounded-full" />
+            <p className="text-black 2xl:text-lg font-bold">Você aprende com um conteúdo mão na massa, colocando em prática cada curso imediatamente.</p>
+          </li>
+            <li className="flex gap-2 items-center">
+            <Circle size={8} className="bg-black rounded-full" />
+            <p className="text-black 2xl:text-lg font-bold">Seus professores vivem o que ensinam, então você vai aprender aquilo que já foi validado no mercado.</p>
+          </li>
+          <li className="flex gap-2 items-center">
+            <Circle size={8} className="bg-black rounded-full" />
+            <p className="text-black 2xl:text-lg font-bold">Além do conhecimento técnico, você terá acesso a mais de 80 cursos para acelerar ainda mais o seu crescimento.</p>
+          </li>
+            <li className="flex gap-2 items-center">
+            <Circle size={8} className="bg-black rounded-full" />
+            <p className="text-black 2xl:text-lg font-bold">Sem enrolação! Aqui você desenvolve uma nova habilidade em dias focando no que realmente é importante.</p>
+          </li>
+            <li className="flex gap-2 items-center">
+            <Circle size={8} className="bg-black rounded-full" />
+            <p className="text-black 2xl:text-lg font-bold">A rotina está agitada? Não se preocupe. Aqui você acompanha as aulas de onde, quando e quantas vezes quiser.</p>
+          </li>
+            <li className="flex gap-2 items-center">
+            <Circle size={8} className="bg-black rounded-full" />
+            <p className="text-black 2xl:text-lg font-bold">Conquiste certificados de peso e coloque a sua carreira em destaque.</p>
+          </li>
+
+            <Button className=" bg-yellow-main text-black text-lg font-bold w-80 h-12 mt-6 mb-6">Ir para a Conquer</Button>
+          
+          
         </ul>
       </div>
+
+      <footer className="flex flex-wrap items-center justify-center gap-6 w-full bg-black py-8 px-20">
+        <p className="text-white text-sm ">Powered by</p>
+        <Image src="/indico.png" alt="logo itau" width={81} height={25} />
+        <p className="text-white text-sm ">CAOS SISTEMAS DINÂMICOS E COMPLEXOS LTDA - Brasil - CNPJ 05.934.733/0001-17</p>
+      </footer>
     
     </main>
   );
