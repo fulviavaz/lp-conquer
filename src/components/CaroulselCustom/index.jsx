@@ -6,10 +6,10 @@ import { Button } from '../ui/button'
 export default function CaroulselCustom() {
   return (
       <div className="w-full flex justify-center relative items-center mt-10 mb-10">
-      <Carousel className="w-full max-w-[1750px] ">
+      <Carousel className="w-full ">
         <CarouselContent className="2xl:-ml-8 ">
-          <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+          <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96 "> 
               <Image
                 src="/c1.png"
                 alt="carrossel item 1"
@@ -27,8 +27,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-            <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+            <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c2.png"
                 alt="carrossel item 2"
@@ -46,8 +46,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-            <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+            <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c3.png"
                 alt="carrossel item 3"
@@ -65,8 +65,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-            <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+            <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c4.png"
                 alt="carrossel item 4"
@@ -83,8 +83,8 @@ export default function CaroulselCustom() {
                 
               </div>
             </CarouselItem>
-              <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+              <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c5.png"
                 alt="carrossel item 5"
@@ -102,8 +102,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-              <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+              <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c6.png"
                 alt="carrossel item 6"
@@ -121,8 +121,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-              <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+              <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c7.png"
                 alt="carrossel item 7"
@@ -140,8 +140,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-              <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+              <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c8.png"
                 alt="carrossel item 8"
@@ -159,8 +159,8 @@ export default function CaroulselCustom() {
               </div>
             </CarouselItem>
 
-              <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+              <CarouselItem className="basis-auto relative pl-8 ">
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c9.png"
                 alt="carrossel item 9"
@@ -179,7 +179,7 @@ export default function CaroulselCustom() {
             </CarouselItem>
 
               <CarouselItem className="basis-1/3 2xl:basis-auto relative pl-8 ">
-            <div className="relative 2xl:w-96 2xl:h-96"> 
+            <div className="relative w-96 h-96"> 
               <Image
                 src="/c10.png"
                 alt="carrossel item 10"
