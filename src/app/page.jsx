@@ -2,6 +2,7 @@
 import CaroulselCustom from "@/components/CaroulselCustom";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -21,7 +22,7 @@ export default function Home() {
 
       <div className="2xl:px-20 px-10 flex flex-col items-start justify-start w-full gap-6">
         <h2 className="text-2xl text-text-a font-bold">Garanta seu desconto</h2>
-        <Button className=" bg-yellow-main text-black text-lg font-bold w-80 h-12">Ir para a Conquer</Button>
+        <Button className=" bg-yellow-main text-black text-lg font-bold w-80 h-12"><Link href="https://escolaconquer.com.br/pos-graduacao/" target="_blank">Ir para a Conquer </Link></Button>
         <p className="text-text-a text-xl font-bold">São mais de 80 habilidades
           disponíveis! Descubra o poder das
           soft e hard skills na sua carreira.</p>
@@ -51,8 +52,7 @@ export default function Home() {
     </li>
   </ul>
 
-            <Button className=" bg-yellow-main text-black text-lg font-bold w-80 h-12 mt-6 mb-6">Ir para a Conquer</Button>
-          
+            <Button className=" bg-yellow-main text-black text-lg font-bold w-80 h-12"><Link href="https://escolaconquer.com.br/pos-graduacao/" target="_blank">Ir para a Conquer </Link></Button>
           
         
       </div>
