@@ -189,7 +189,7 @@ export default function CaroulselCustom() {
               />
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
-                <h3 className="text-3xl text-white font-bold w-72">Gestão de Pessoas e Negócios</h3>
+                <h3 className="text-3xl text-white font-bold w-72">Gestão Comercial e Vendas</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">Ver ementa</Button>
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">Matricule-se Já!</Button>

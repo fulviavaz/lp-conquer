@@ -1,7 +1,6 @@
 
 import CaroulselCustom from "@/components/CaroulselCustom";
 import { Button } from "@/components/ui/button";
-import { Circle } from "lucide-react";
 import Image from "next/image";
 
 export default function Home() {
@@ -9,7 +8,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-between">
       <nav className="flex items-center justify-between w-full bg-black py-4 2xl:px-20 px-10">
         <Image src="/itau.png" alt="logo itau" width={44} height={44} />
-        <Image src="/conquer.png" alt="logo conquer" width={136} height={42}/>
+        <Image src="/conquer-pos.png" alt="logo conquer" width={136} height={42}/>
       </nav>
     <div className="flex flex-col items-center justify-center w-full">
         <div className=" bg-[url('/main-mobile.png')] bg-cover bg-center 2xl:w-[600px] 2xl:h-[400px] w-[328px] h-[413px] relative items-center mt-10 mb-10 bg-black rounded-3xl">  
