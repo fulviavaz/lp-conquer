@@ -12,7 +12,7 @@ export default function CaroulselCustom() {
           <CarouselItem className="basis-auto relative pl-3 ">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c1.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c1.png"
                 alt="carrossel item 1"
                 fill
                 className="rounded-md object-cover"
@@ -31,7 +31,7 @@ export default function CaroulselCustom() {
             <CarouselItem className="basis-auto relative pl-3 ">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c2.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c2.png"
                 alt="carrossel item 2"
                 fill
                 className="rounded-md object-cover"
@@ -50,7 +50,7 @@ export default function CaroulselCustom() {
           <CarouselItem className="basis-auto relative pl-3 ">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c3.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c3.png"
                 alt="carrossel item 3"
                 fill
                 className="rounded-md object-cover"
@@ -69,7 +69,7 @@ export default function CaroulselCustom() {
           <CarouselItem className="basis-auto relative pl-3 ">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c4.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c4.png"
                 alt="carrossel item 4"
                 fill
                 className="rounded-md object-cover"
@@ -88,7 +88,7 @@ export default function CaroulselCustom() {
             <CarouselItem className="basis-auto relative pl-3 ">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c5.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c5.png"
                 alt="carrossel item 5"
                 fill
                 className="rounded-md object-cover"
@@ -107,7 +107,7 @@ export default function CaroulselCustom() {
             <CarouselItem className="basis-auto relative pl-3 ">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c6.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c6.png"
                 alt="carrossel item 6"
                 fill
                 className="rounded-md object-cover"
@@ -126,7 +126,7 @@ export default function CaroulselCustom() {
               <CarouselItem className="basis-auto relative pl-3">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c7.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c7.png"
                 alt="carrossel item 7"
                 fill
                 className="rounded-md object-cover"
@@ -145,7 +145,7 @@ export default function CaroulselCustom() {
               <CarouselItem className="basis-auto relative pl-3">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c8.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c8.png"
                 alt="carrossel item 8"
                 fill
                 className="rounded-md object-cover"
@@ -164,7 +164,7 @@ export default function CaroulselCustom() {
               <CarouselItem className="basis-auto relative pl-3">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c9.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c9.png"
                 alt="carrossel item 9"
                 fill
                 className="rounded-md object-cover"
@@ -183,7 +183,7 @@ export default function CaroulselCustom() {
               <CarouselItem className="basis-auto relative pl-3">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/c10.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/c10.png"
                 alt="carrossel item 10"
                 fill
                 className="rounded-md object-cover"
@@ -201,7 +201,7 @@ export default function CaroulselCustom() {
           <CarouselItem className="basis-auto relative pl-3">
             <div className="relative w-[326px] h-[326px]"> 
               <Image
-                src="/ca11.png"
+                src="/itauuniclass/minhasvantagens/conquerpos/images/ca11.png"
                 alt="carrossel item 11"
                 fill
                 className="rounded-md object-cover"
