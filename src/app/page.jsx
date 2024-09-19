@@ -11,19 +11,23 @@ export default function Home() {
         <Image src="/itauuniclass/minhasvantagens/conquerpos/images/itau.png" alt="logo itau" width={44} height={44} />
         <Image src="/itauuniclass/minhasvantagens/conquerpos/images/conquer-pos.png" alt="logo conquer" width={136} height={42}/>
       </nav>
-    <div className="flex flex-col items-center justify-center w-full">
-        <div className=" bg-[url('/itauuniclass/minhasvantagens/conquerpos/images/main-mobile.png')] bg-cover bg-center 2xl:w-[600px] 2xl:h-[400px] w-[328px] h-[413px] relative items-center mt-10 mb-10 bg-black rounded-3xl">  
-          <div className="absolute bottom-5 left-5">
-            <h1 className="text-3xl text-white font-bold">Conquer Pós</h1>
-            <h3 className="text-lg text-white font-bold">Aproveite os descontos!</h3>
-            </div>
+      {/* hero */}
+      
+        <div className="flex flex-wrap-reverse gap-10 items-center justify-between w-full bg-[#0131FF] py-24 2xl:px-30 xl:px-40 lg:px-30 px-10">
+        <div className="2xl:w-[500px] xl:w-[500px] lg:w-[500px] flex flex-col">
+          <h1 className="text-white 2xl:text-4xl xl:text-4xl lg:text-4xl text-2xl font-bold ">Conquer e Uniclass<br/>
+            Uma parceria para<br/> investir no seu futuro</h1>
+          <p className="text-lg font-semibold text-white mt-10">Aproveite os descontos exclusivos minhas vantagens!</p>
+        </div>
+        <div>
+          <Image src="/itauuniclass/minhasvantagens/conquerpos/images/cpos.png" alt="hero" width={630} height={323} />
         </div>
         </div>
 
-      <div className="2xl:px-20 px-10 flex flex-col items-start justify-start w-full gap-6">
-        <h2 className="text-2xl text-text-a font-bold">Garanta seu desconto</h2>
+      <div className="2xl:px-20 px-10 flex flex-col items-start justify-start w-full gap-6 py-14">
       
-        <p className="text-text-a text-xl font-bold">São mais de 80 habilidades
+      
+        <p className="text-text-a text-2xl font-bold">São mais de 80 habilidades
           disponíveis! Descubra o poder das
           soft e hard skills na sua carreira.</p>
       </div> 
