@@ -22,7 +22,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Gestão de Pessoas e Negócios</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPN.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152610752CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-30102024112846607CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
