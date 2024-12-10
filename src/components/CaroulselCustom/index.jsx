@@ -22,7 +22,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Gestão de Pessoas e Negócios</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPN.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152610752CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152610752CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
@@ -41,8 +41,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Gestão Estratégica de Negócios</h3>
                 <div className="flex gap-4">
                     <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GEN.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151430828CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU
-" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151430828CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
@@ -61,7 +60,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Liderança e Gestão em Tecnologia</h3>
                 <div className="flex gap-4">
                     <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_TECH.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152239383CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152239383CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
                 </div>
                 
               </div>
@@ -80,7 +79,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Liderança e Gestão de Pessoas</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_LID.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151954998CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151954998CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
                 </div>
                 
               </div>
@@ -99,8 +98,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Marketing e Estratégias Digitais</h3>
                 <div className="flex gap-4">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_MED.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151204452CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU
-" target="_blank">Matricule-se Já!</Link></Button> 
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151204452CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
                 </div>
                 
               </div>
@@ -119,7 +117,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Business Intelligence & Analytics</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_BIA.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152103589CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152103589CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
                 </div>
                 
               </div>
@@ -138,8 +136,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Gestão Ágil e Inovação</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GAPI.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151836953CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU
-" target="_blank">Matricule-se Já!</Link></Button> 
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151836953CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button> 
                 </div>
                 
               </div>
@@ -158,8 +155,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Gestão Estratégica de Recursos Humanos</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GERH.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152455950CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU
-" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152455950CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
@@ -178,8 +174,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Transformação Digital e Liderança</h3>
                 <div className="flex gap-4">
                     <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_IA.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152823930CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU
-" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152823930CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
@@ -198,7 +193,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-2xl text-white font-bold w-72">Gestão de Projetos e Metodologias Ágeis</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPMA.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151623670CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAUU" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024151623670CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
@@ -216,7 +211,7 @@ export default function CaroulselCustom() {
                 <h3 className="text-3xl text-white font-bold w-72">Gestão comercial e vendas</h3>
                 <div className="flex gap-4">
                   <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]"><Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GCV.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152342551CRSTNHLND/inicio?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_term=ITAU&utm_content=ITAU&utm_id=ITAU" target="_blank">Matricule-se Já!</Link></Button>
+                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]"><Link href="https://pagamento.escolaconquer.com.br/CW-25072024152342551CRSTNHLND?utm_source=ITAU&utm_medium=ITAU&utm_campaign=ITAU&utm_id=ITAU&utm_term=ITAU&utm_content=ITAU" target="_blank">Matricule-se Já!</Link></Button>
                 </div>
                 
               </div>
