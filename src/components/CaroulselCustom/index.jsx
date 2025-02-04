@@ -21,10 +21,17 @@ export default function CaroulselCustom() {
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Gestão de Pessoas e Negócios</h3>
                 <div className="flex gap-4">
-                <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPN.pdf" target="_blank">Ver ementa </Link></Button>
-                <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button>
+              <Link
+  href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPN.pdf"
+  target="_blank"
+>
+  <Button className="bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
+    Ver ementa
+  </Button>
+</Link>
+
+                <Link href="https://cnqr.com.br/r/itau" target="_blank"><Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
+                  Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
@@ -41,11 +48,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Gestão Estratégica de Negócios</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GEN.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GEN.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button>
+                  Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
@@ -62,11 +71,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Liderança e Gestão em Tecnologia</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_TECH.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_TECH.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button> 
+                  Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
@@ -83,11 +94,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Liderança e Gestão de Pessoas</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_LID.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_LID.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa</Button> </Link>
+                  <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button> 
+                Matricule-se Já!</Button> </Link>
                 </div>
                 
               </div>
@@ -104,11 +117,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Marketing e Estratégias Digitais</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_MED.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_MED.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                  <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button> 
+                Matricule-se Já!</Button> </Link>
                 </div>
                 
               </div>
@@ -125,11 +140,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Business Intelligence & Analytics</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_BIA.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_BIA.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button> 
+                  Matricule-se Já!</Button> </Link>
                 </div>
                 
               </div>
@@ -146,11 +163,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Gestão Ágil e Inovação</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GAPI.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GAPI.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button> 
+                  Matricule-se Já!</Button> </Link>
                 </div>
                 
               </div>
@@ -167,11 +186,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Gestão Estratégica de Recursos Humanos</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GERH.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GERH.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                  <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button>
+                Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
@@ -188,11 +209,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Transformação Digital e Liderança</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_IA.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_IA.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button>
+                  Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
@@ -209,11 +232,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-2xl text-white font-bold w-72">Gestão de Projetos e Metodologias Ágeis</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPMA.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GPMA.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button>
+                  Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
@@ -229,11 +254,13 @@ export default function CaroulselCustom() {
               </div>
               <div className="absolute flex flex-col items-start justify-center bottom-5 left-10 w-64 gap-3">
                 <h3 className="text-3xl text-white font-bold w-72">Gestão comercial e vendas</h3>
-                <div className="flex gap-4">
+              <div className="flex gap-4">
+                <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GCV.pdf" target="_blank">
                 <Button className=" bg-white-main text-black text-sm font-bold w-[87px] h-[45px]">
-                  <Link href="https://drive.conqueronline.com.br/growth/escola-de-negocios/pos-graduacao/ementas/Ementa_GCV.pdf" target="_blank">Ver ementa </Link></Button>
+                    Ver ementa </Button></Link>
+                <Link href="https://cnqr.com.br/r/itau" target="_blank">
                 <Button className=" bg-yellow-main text-black text-sm font-bold w-[159px] h-[45px]">
-                  <Link href="https://cnqr.com.br/r/itau" target="_blank">Matricule-se Já!</Link></Button>
+                  Matricule-se Já!</Button></Link>
                 </div>
                 
               </div>
