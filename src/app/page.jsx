@@ -38,7 +38,8 @@ export default function Home() {
       <CaroulselCustom />
       
       <div className="2xl:px-20 px-10 mb-6 w-full">
-        <p className="text-black text-sm font-normal mb-6">Ao escolher o curso desejado, você será direcionado para página de check-out. Preencha os dados do cartão e, no campo “possui cupom?”, insira o cupom <strong>ITAÚ</strong> para garantir o desconto e seguir com o pagamento.</p>
+          <p className="text-black text-sm font-normal mb-6">Ao escolher o curso desejado, você será direcionado para página de check-out.
+            Preencha os dados do cartão e, no campo “possui cupom?”, insira o cupom <strong>ITAUPOS</strong> para garantir o desconto e seguir com o pagamento.</p>
       <ul className="list-disc list-inside">
     <li className="text-black 2xl:text-lg font-bold">
       Você aprende com um conteúdo mão na massa, colocando em prática cada curso imediatamente.
